@@ -1,3 +1,5 @@
+# https://www.codewars.com//kata/56fe17fcc25bf3e19a000292
+
 def v1(n, p):
     return p * (2 * n + 1)
 
