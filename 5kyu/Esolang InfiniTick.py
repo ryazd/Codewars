@@ -1,3 +1,5 @@
+# https://www.codewars.com//kata/58817056e7a31c2ceb000052
+
 def interpreter(tape):
     memory = {}
     ptr = 0
