@@ -1,3 +1,5 @@
+# https://www.codewars.com//kata/5b114e854de8651b6b000123
+
 def who_would_win(mon1, mon2):
     hp1 = mon1['hitpoints'] * mon1['number']
     hp2 = mon2['hitpoints'] * mon2['number']
