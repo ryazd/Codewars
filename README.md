@@ -1,4 +1,26 @@
 ## Codewars
+# 8 kyu
+1. [Cat years, Dog years](https://www.codewars.com//kata/5a6663e9fd56cb5ab800008b)
+2. [Check same case](https://www.codewars.com//kata/5dd462a573ee6d0014ce715b)
+3. [Find the smallest integer in the array](https://www.codewars.com//kata/55a2d7ebe362935a210000b2)
+4. [Ensure question](https://www.codewars.com//kata/5866fc43395d9138a7000006)
+5. [Convert a Number to a String!](https://www.codewars.com//kata/5265326f5fda8eb1160004c8)
+6. [Semi-Optional](https://www.codewars.com//kata/521cd52e790405a74800032c)
+7. [Grasshopper - Array Mean](https://www.codewars.com//kata/55d277882e139d0b6000005d)
+8. [Drink about](https://www.codewars.com//kata/56170e844da7c6f647000063)
+9. [No Loops 2 - You only need one](https://www.codewars.com//kata/57cc40b2f8392dbf2a0003ce)
+10. [Opposite number](https://www.codewars.com//kata/56dec885c54a926dcd001095)
+# 7 kyu
+11. [Count cubes in a Menger Sponge](https://www.codewars.com//kata/59d28768a25c8c51a6000057)
+12. [How many times does it contain?](https://www.codewars.com//kata/584466950d3bedb9b300001f)
+13. [Do you speak retsec?](https://www.codewars.com//kata/5516ab668915478845000780)
+14. [Recursion 101](https://www.codewars.com//kata/5b752a42b11814b09c00005d)
+15. [C.Wars](https://www.codewars.com//kata/55968ab32cf633c3f8000008)
+16. [Partial Word Searching](https://www.codewars.com//kata/54b81566cd7f51408300022d)
+17. [Every possible sum of two digits](https://www.codewars.com//kata/5b4e474305f04bea11000148)
+18. [String to integer conversion](https://www.codewars.com//kata/54fdadc8762e2e51e400032c)
+19. [Sum of angles](https://www.codewars.com//kata/5a03b3f6a1c9040084001765)
+20. [NATO Phonetic Alphabet](https://www.codewars.com//kata/54530f75699b53e558002076)
 # 6 kyu
 21. [What The Biggest Search Keys?](https://www.codewars.com//kata/58ac1abdff4e78738f000805)
 22. [Simple Fun #23: Square Digits Sequence](https://www.codewars.com//kata/5886d65e427c27afeb0000c1)
