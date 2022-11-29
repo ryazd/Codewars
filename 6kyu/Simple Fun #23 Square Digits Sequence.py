@@ -1,3 +1,5 @@
+# https://www.codewars.com//kata/5886d65e427c27afeb0000c1
+
 def square_digits_sequence(n):
     nums = []
     while n not in nums:
