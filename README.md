@@ -1,2 +1,23 @@
-# Codewars
-Каты
+## Codewars
+# 6 kyu
+21. [What The Biggest Search Keys?](https://www.codewars.com//kata/58ac1abdff4e78738f000805)
+22. [Simple Fun #23: Square Digits Sequence](https://www.codewars.com//kata/5886d65e427c27afeb0000c1)
+23. [Disguised sequences (II)](https://www.codewars.com//kata/56fe17fcc25bf3e19a000292)
+24. [1/n- Cycle](https://www.codewars.com//kata/5a057ec846d843c81a0000ad)
+25. [Ticker](https://www.codewars.com//kata/5a959662373c2e761d000183)
+26. [A for Apple](https://www.codewars.com//kata/55de3f83e92c3e521a00002a)
+27. [Heroes of Might & Magic II: One-on-One](https://www.codewars.com//kata/5b114e854de8651b6b000123)
+28. [Wheel of Fortune](https://www.codewars.com//kata/55191f78cd82ff246f000784)
+29. [Decode the Morse code](https://www.codewars.com//kata/54b724efac3d5402db00065e)
+30. [N-Point Crossover](https://www.codewars.com//kata/57339a5226196a7f90001bcf)
+# 5 kyu
+31. [boats-to-save-people](https://leetcode.com/problems/boats-to-save-people/)
+32. [Removing Internal Vertices](https://www.codewars.com//kata/5da06d425ec4c4001df69c49)
+33. [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+34. [Esolang: InfiniTick](https://www.codewars.com//kata/58817056e7a31c2ceb000052)
+35. [detect-squares](https://leetcode.com/problems/detect-squares/)
+36. [Ant Bridge](https://www.codewars.com//kata/599385ae6ca73b71b8000038)
+37. [Simple cluster analysis](https://www.codewars.com//kata/5a99d851fd5777f746000066)
+38. [@validate_args](https://www.codewars.com//kata/5a0001a606d5b68a5a000013)
+39. [Caesar Cipher Helper](https://www.codewars.com//kata/526d42b6526963598d0004db)
+40. [Poker cards encoder/decoder](https://www.codewars.com//kata/52ebe4608567ade7d700044a)
