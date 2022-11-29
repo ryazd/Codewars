@@ -1,3 +1,5 @@
+# https://www.codewars.com//kata/54b724efac3d5402db00065e
+
 def decode_morse(morse_code):
     morse_code = morse_code.strip(" ")
     morse_code = morse_code.replace("  ", " * ")
