@@ -1,3 +1,5 @@
+# https://www.codewars.com//kata/55191f78cd82ff246f000784
+
 def valid_scores(scores):
     if not (5 <= scores[0] <= 100 and scores[0] % 5 == 0):
         return False
