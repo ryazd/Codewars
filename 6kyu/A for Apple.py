@@ -1,3 +1,5 @@
+# https://www.codewars.com//kata/55de3f83e92c3e521a00002a
+
 def a(n):
     if n < 4:
         return ''
